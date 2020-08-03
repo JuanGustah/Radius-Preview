@@ -1,4 +1,7 @@
 # Radius-Preview
+<p align="center">
+<img src="screenshot.png">
+</p>
 
 ## Why
 Based on project idea of [appideas](https://github.com/florinpop17/app-ideas) i create this aplication to summarize web concepts.
